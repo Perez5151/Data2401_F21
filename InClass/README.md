@@ -8,8 +8,15 @@ Do the following:
 
 1. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
 
+2 Eggs
+1 C of egg whites
+1/2 C of Turkey Sausage
+3 C of Spinach
+Tomatillo Salsa
+1 C Strawberry-Banana Smoothie
+
 1. Using your terminal or GitHub Desktop, add and commit the changes you've made to your repository
 
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
-1. To finish, submit the link to your repository in your account on github to the assignment on BB. 
+1. To finish, submit the link to your repository in your account on github to the assignment on BB.
